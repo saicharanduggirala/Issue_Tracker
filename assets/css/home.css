@@ -1,0 +1,10 @@
+#header-container {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#project-creator a {
+    background-color: red;
+    color: white;
+}
